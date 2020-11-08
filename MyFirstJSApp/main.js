@@ -16,11 +16,15 @@ const COLOR_RED = "#F00";
 let color = COLOR_RED;
 //console.log(color)
 let someValue = "reqh";
-console.log(someValue);
+//console.log(someValue);
 someValue = 1234;
-console.log(someValue);
+//console.log(someValue);
 
-console.log(1 / 0);
-console.log(32);
+//console.log(1 / 0);
+//console.log(32);
 let bigInt = 897654345678988876543567897654n;
-console.log(bigInt);
+//console.log(bigInt);
+
+let name1 = "name"
+
+console.log(`Hello, ${name1}`)
