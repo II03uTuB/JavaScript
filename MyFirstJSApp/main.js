@@ -27,4 +27,7 @@ let bigInt = 897654345678988876543567897654n;
 
 let name1 = "name"
 
-console.log(`Hello, ${name1}`)
+//console.log(`Hello, ${name1}`)
+let age;
+//console.log(age)
+//console.log(typeof console)
