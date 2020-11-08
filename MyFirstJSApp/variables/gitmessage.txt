@@ -1,4 +1,0 @@
-Chore: write solution for this task
-
-This is a test non-oneString commit.
-I think, that BIRTHDAY ang age.
