@@ -1,0 +1,2 @@
+const EARTH;
+const currentVisitorSite;
