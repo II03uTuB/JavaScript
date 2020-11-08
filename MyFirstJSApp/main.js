@@ -31,3 +31,4 @@ let name1 = "name"
 let age;
 //console.log(age)
 //console.log(typeof console)
+alert("hello");
