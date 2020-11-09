@@ -36,3 +36,5 @@ let a;
 let n = (a = 3 + 2, 21+12)
 console.log(a);
 console.log(n)
+
+console.log("A" < "a")
