@@ -31,4 +31,8 @@ let name1 = "name"
 let age;
 //console.log(age)
 //console.log(typeof console)
-alert("hello");
+//alert("hello");
+let a;
+let n = (a = 3 + 2, 21+12)
+console.log(a);
+console.log(n)
